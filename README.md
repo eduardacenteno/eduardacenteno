@@ -19,7 +19,7 @@ LinkedIn: https://www.linkedin.com/in/eduardagzc/
 
 1. [Notebook for Network and Topological Analysis in Neuroscience](https://github.com/multinetlab-amsterdam/network_TDA_tutorial)
 <p align="center">
- <img src="./images/NN3.jpg" alt="drawing" width="600"/>
+ <img src="./images/NN3.jpg" alt="drawing" width="700"/>
 </p>
 
 2. [Songbird neural data analysis](https://aleblois.github.io/SongbirdNeuralDataAnalysis/)
