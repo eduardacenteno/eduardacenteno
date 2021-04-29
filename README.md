@@ -18,8 +18,14 @@ LinkedIn: https://www.linkedin.com/in/eduardagzc/
 ## # GitHub projects
 
 1. [Notebook for Network and Topological Analysis in Neuroscience](https://github.com/multinetlab-amsterdam/network_TDA_tutorial)
-> ![](https://github.com/multinetlab-amsterdam/network_TDA_tutorial/blob/main/Figures/filtration.gif)
+<p align="center">
+ <img src="./images/NN3.jpg" alt="drawing" width="600"/>
+</p>
 
-2. [Songbird neural data analysis](https://aleblois.github.io/SongbirdNeuralDataAnalysis/index.html)
+2. [Songbird neural data analysis](https://aleblois.github.io/SongbirdNeuralDataAnalysis/)
+<p align="center">
+ <img src="./images/songbird.PNG" alt="drawing" width="700"/>
+</p>
+
 <!--
 **eduardacenteno/eduardacenteno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
